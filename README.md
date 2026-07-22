@@ -1,10 +1,10 @@
-# Paradise Nursery Shopping Application
+# e-plantShopping
 
-This project is a dynamic, fully responsive e-commerce web application for an online plant shop called Paradise Nursery. Built with React and Redux Toolkit, the application allows users to browse diverse houseplants categorized by type, view prices, and manage a shopping cart dynamically.
+An elegant, fully responsive e-commerce web application built for Paradise Nursery as part of the IBM Full Stack Software Developer Professional Certificate. This application allows users to browse an extensive catalog of houseplants categorized by atmospheric benefits, add plants dynamically to an automated shopping cart, manage quantities, and instantly view real-time cart cost updates.
 
 ## Key Features
-- Responsive landing page featuring project details and explicit entry point.
-- Dynamic navigation system displaying live item counts.
-- Fully functional shopping cart enabling quantity adjustments and removals.
-- Global application state powered by Redux Toolkit slices.
+- Responsive landing view featuring interactive business mission details.
+- Extended categorical plant list managed via global Redux state slices.
+- Automated navigation system tracking immediate shopping cart product additions.
+- Responsive cart modifier workspace handling quantities and item deletions.
 -
